@@ -8,7 +8,7 @@
 
 ## 📺 Демонстрация работы
 <p align="center">
-  <img src="docs/demo.gif" alt="LETI OLED Demo" width="450">
+  <img src="docs/demo_crop.gif" alt="LETI OLED Demo" width="450">
 </p>
 
 ## 🛠 Аппаратное подключение
